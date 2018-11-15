@@ -6,7 +6,8 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            for(int i = 0; i < 9;i++)
+              Console.WriteLine("Hello Anders!\n");
         }
     }
 }
